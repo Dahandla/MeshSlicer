@@ -43,4 +43,7 @@ This add-on is licensed under the GNU General Public License (GPL). You can view
 Andre Dickinson -"this is my first addon for the blender community , inspiration taken from 3dsmax slice modifer "- "buy me a cup of coffee : cashapp $anykeyad"
 
 
+Basic Usage https://youtu.be/2GDkdLv_lDs
+
+
 
