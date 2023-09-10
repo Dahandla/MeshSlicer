@@ -12,9 +12,9 @@ Mesh Slicer is a Blender add-on that allows users to slice 3D objects along a pl
 
 ## Installation
 
-1. Download the `mesh_slicer.zip` file.
+1. Download the `v1.1.zip` file. and extract it, browse to the MeshSlicer.py file which is in a sub folder next to a README File.
 2. Open Blender and go to `Edit > Preferences`.
-3. In the Add-ons tab, click `Install` and select the downloaded `mesh_slicer.zip` file.
+3. In the Add-ons tab, click `Install` and select the downloaded MeshSlicer.py` file.
 4. Enable the "Mesh Slicer" add-on from the list.
 
 ## Usage
