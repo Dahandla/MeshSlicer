@@ -1,4 +1,5 @@
 # Mesh Slicer Add-on for Blender
+![Snapshot - 3](https://github.com/Dahandla/MeshSlicer/assets/13239403/33a165e0-755e-43c6-94e8-1f549f867b85)
 
 Mesh Slicer is a Blender add-on that allows users to slice 3D objects along a plane. It provides an intuitive interface to define the slicing plane's location and orientation, and offers various slicing options to cater to different needs.
 
