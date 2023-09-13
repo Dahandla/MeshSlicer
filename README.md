@@ -46,6 +46,6 @@ Andre Dickinson -"this is my first addon for the blender community , inspiration
 
 Basic Usage https://youtu.be/2GDkdLv_lDs
 
-tested with Blender 2.93 - 3.6.2 :  working
+tested with Blender 3.5.0 :  working
 
 
